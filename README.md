@@ -107,9 +107,6 @@ Open and run `sentiment_analysis.ipynb` from the Jupyter interface.
 ```
 ├── sentiment_analysis.ipynb   # Main analysis notebook
 ├── requirements.txt           # Python dependencies
-├── data/
-│   ├── sentiment.csv          # Bitcoin Fear/Greed Index data
-│   └── hyperliquid_trades.csv # Hyperliquid historical trade data
 └── README.md
 ```
 
